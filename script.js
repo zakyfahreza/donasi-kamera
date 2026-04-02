@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Donation Progress Configuration
     const targetAmount = 3800000;
-    const collectedAmount = 3550000; // Simulated collected amount
+    const collectedAmount = 3720000; // Simulated collected amount
 
     // Calculate percentage
     const percentage = Math.min((collectedAmount / targetAmount) * 100, 100);
